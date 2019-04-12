@@ -19,12 +19,12 @@ ust be able to run python and import cochlea from matlab using `system(pythonCom
 
 That's it!
 
-# Usage
+## Usage
 The model wrapper is tdoch.m. Thorought examples reproducing the figures shown in the original paper
 re available in the folder "figures". Some easy UNIX-to-windows modifications might be necessary to
 make the functions work in windows O:).
 
 Have fun!
 
-# Citation
+## Citation
 If you use the model, please cite https://doi.org/10.1371/journal.pcbi.1006820
