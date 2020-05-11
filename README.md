@@ -15,7 +15,7 @@ First, install cochlea and thorns using pip from the terminal: `pip install thor
 
 Next, set line 54 in tdoch.m to point to your python installation. Just "python" should work in most
 systems. I wrote a few extra tips in the comments preceding the line in case that does not work. You
-ust be able to run python and import cochlea from matlab using `system(pythonCommandString)`
+must be able to run python and import cochlea from matlab using `system(pythonCommandString)`
 
 That's it!
 
